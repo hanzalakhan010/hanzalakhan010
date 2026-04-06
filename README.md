@@ -1,134 +1,80 @@
 
+# Hanzala Khan
 
-#  Hanzala Khan
+**Founder-Engineer | Systems, Backend & Infrastructure Engineer**
 
-**Founder-Engineer | AI-First Product Builder | Startup Technologist**
+I design and build **production-grade distributed systems** across backend, infrastructure, and applied AI.
 
-I build **real systems** that solve **real problems** — fast.
-My work lives at the intersection of **AI, backend systems, and product engineering**.
+Focus: **system correctness, scalability, and operational reliability under real-world constraints.**
 
-I’m not attached to stacks.
-I’m attached to **outcomes**.
-
-Right now I’m experimenting across **AI, EdTech, civic tech, and SaaS**, with one long-term objective:
-
-> Work on technology startups deeply integrated with intelligent systems.
+Stack is a toolset. System behavior is the priority.
 
 ---
 
-##  What I Actually Do
+## Core Expertise
 
-I design and ship **production-grade platforms**, not just demos:
-
-* Architect scalable backend systems
-* Design secure APIs & authentication flows
-* Train and deploy machine learning models
-* Convert messy real-world problems into working software
-
-My core advantage is **speed + systems thinking** — I move from idea → architecture → code → deployment rapidly, without losing structural integrity.
-
----
-
-##  Flagship Systems
-
-###  **Learning Management System (LMS)**
-
-**React.js • Flask • PostgreSQL • SQLAlchemy**
-
-A full-stack academic platform with:
-
-* Admin, Teacher, Student & Parent roles
-* Course & timetable management
-* Bulk admin operations
-* Clean modular architecture for scaling
-
-Built as a **real product**, not a toy project.
+* Backend system design (monolith → modular → distributed architectures)
+* API architecture (REST, event-driven systems, service decomposition)
+* Authentication, authorization, and multi-tenant system design
+* Database engineering (schema design, indexing, query optimization, consistency tradeoffs)
+* Constraint-based system design and optimization problems
+* Applied ML integration into production systems
+* Full system lifecycle: requirements → architecture → deployment
 
 ---
 
-###  **Electronic Voting System**
+## DevOps / Infrastructure Engineering
 
-**Python • Flask • PostgreSQL**
+* Containerization using **Docker**
+* Container orchestration with **Kubernetes**
+* CI/CD pipeline design and deployment automation
+* Linux-based production system management
+* Reverse proxy setups (Nginx-style routing architectures)
+* Observability: logs, metrics, tracing, system monitoring design
+* Performance tuning (CPU, memory, I/O bottleneck analysis)
+* Rolling deployments, zero-downtime release strategies
+* Environment management (dev/staging/prod parity design)
 
-A secure digital voting platform designed for:
-
-* Authentication & result integrity
-* Large voter groups
-* Real-world deployment constraints
-
-This project forced me to think about **security, reliability, and trust**, not just code.
-
----
-
-###  **School Communication App**
-
-**React Native • FastAPI • Python**
-
-A cross-platform app for school communication and role-based dashboards.
-Awarded **1st Prize at a Science Fair** for system design and presentation.
-
----
-### **Timetable Generator**
-
-Javascript • Constraint Optimization • CSV Pipelines
-
-Live: https://tg.hplusplus.tech
-
-A constraint-based scheduling engine built to solve a real operational bottleneck in academic institutions.
-
-Automatically generates optimized class timetables
-
-Supports variable constraints (teachers, rooms, subjects, slots)
-
-Exports schedules as structured CSVs for downstream systems
-
-Eliminates fragile manual rebuilding after small changes
-
-This system converts a traditionally human-heavy planning problem into a deterministic, software-driven pipeline, saving time, reducing errors, and enabling rapid iteration when constraints shift.
-
-##  AI & Machine Learning
-
-AI is not a side skill — it is my **strategic edge**.
-
-I work with:
-
-* Machine learning models (classification, clustering, CNNs)
-* Data pipelines with Pandas
-* Model explainability (SHAP, XGBoost, etc.)
-* System-level AI integration into real products
-
-My direction is clear:
-
-> **AI-driven systems that make software adaptive, intelligent, and autonomous.**
+Core focus: **building systems that remain stable under production load and failure conditions**
 
 ---
 
-##  How I Work
+## Engineering Focus Areas
 
-I’m stack-agnostic and outcome-driven.
-I’ve shipped with:
+### System Design
 
-- **Backend:** Python, Flask, FastAPI, SQLAlchemy
+Designing scalable architectures with clear service boundaries, failure isolation, and predictable runtime behavior.
 
-- **Frontend:** React.js, React Native, Tailwind, Bootstrap
+### Backend Engineering
 
-- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
+Building robust APIs and service layers with clean domain boundaries and minimal coupling.
 
-- **Infra:** Linux, Git, CLI-based workflows
+### Data & AI Systems
 
-I choose tools based on **leverage**, not fashion.
+Operationalizing ML models with proper inference pipelines, data flow design, and production constraints.
+
+### Database Systems
+
+Relational modeling, transactional integrity, and performance-aware schema evolution.
+
+---
+
+## Working Style
+
+* First-principles engineering approach
+* Prefer simple systems that scale cleanly
+* Strong bias toward correctness under failure
+* Design driven by constraints, not assumptions
+* Fast iteration from design → implementation → production
 
 ---
 
+## Technical Scope
 
-##  Let’s Connect
-
-*  Portfolio: [https://hanzalakhan010.github.io/portfolio](https://hanzalakhan010.github.io/portfolio)
-
-*  LinkedIn: [https://www.linkedin.com/in/hanzala-khan-6a06411b9/](https://www.linkedin.com/in/hanzala-khan-6a06411b9/)
-*  GitHub: [https://github.com/hanzalakhan010](https://github.com/hanzalakhan010)
-*  Email: [hanzalakhan.private@gmail.com](mailto:hanzalakhan.private@gmail.com)
-
-If you are building something ambitious in **AI, EdTech, or software-driven startups**, this profile is a good place to start the conversation.
-
+**Backend:** Python, Flask, FastAPI, Node.js
+**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+**DevOps / Infra:** Docker, Kubernetes, CI/CD, Linux, Nginx, deployment automation, observability tooling
+**AI/ML:** scikit-learn, XGBoost, applied ML pipelines
+**Frontend (supporting):** React, React Native
 ---
+
